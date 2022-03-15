@@ -5,6 +5,10 @@ Snake game developed in purpose of job interview test at Trophy Games.
 
 You can access the game via https://ssnake-game.herokuapp.com/.
 
+## Running game locally
+
+After cloning the git repo, open the project directory in terminal and run ```npm install && node server.js``` and open the game in the browser at http://localhost:8080/.
+
 ## Total time
 
 **The time it took me to develop requirements for the game was around 5 hours.**
